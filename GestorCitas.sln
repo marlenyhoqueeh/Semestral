@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GestorCitas", "GestorCitas.csproj", "{4A758288-B2EB-4EBD-9420-8F74204DCFDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A758288-B2EB-4EBD-9420-8F74204DCFDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A758288-B2EB-4EBD-9420-8F74204DCFDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A758288-B2EB-4EBD-9420-8F74204DCFDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A758288-B2EB-4EBD-9420-8F74204DCFDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A643ACC-2EC7-40E1-B86D-4BD67C98FC3C}
+	EndGlobalSection
+EndGlobal
